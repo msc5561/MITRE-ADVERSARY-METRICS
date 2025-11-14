@@ -8,7 +8,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: 'MITRE ATT&CK Dashboard - Threat Intelligence',
-  description: 'Global adversary tracking and threat assessment dashboard with heatmap visualizations',
+  description: 'Global adversary tracking and threat assessment dashboard with metric visualizations',
   generator: 'v0.app',
   icons: {
     icon: [
