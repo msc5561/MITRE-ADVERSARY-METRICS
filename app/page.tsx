@@ -186,7 +186,7 @@ export default function MitreAttackDashboard() {
           {/* Global Heatmap */}
           <Card className="bg-card border-border">
             <CardHeader>
-              <CardTitle className="text-lg">Global Threat Heatmap</CardTitle>
+              <CardTitle className="text-lg">Global Threat Metrics</CardTitle>
               <CardDescription>Adversary distribution by country</CardDescription>
             </CardHeader>
             <CardContent>
